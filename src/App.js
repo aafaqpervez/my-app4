@@ -24,7 +24,7 @@ function App() {
   </button>
   <br/>
 
-  <button onClick={()=>setMorning(!IsMorning)} >update Day </button>
+  <button onClick={()=>setMorning(!IsMorning)} >updated Day </button>
       
     </div>
   );
